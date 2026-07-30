@@ -67,6 +67,7 @@ Wishlist-App/
 ├── script.js
 ├── README.md
 └── assets/
+    └── logo.png
     └── screenshots/
 ```
 
@@ -77,7 +78,7 @@ Wishlist-App/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/wishlist-app.git
+https://github.com/abhishekkjaiml/JavaScript.git
 ```
 
 ---
@@ -170,47 +171,23 @@ Through this project, I learned:
 
 ---
 
-# 🤝 Contributing
+# 🚀 About Me
 
-Contributions are welcome.
+Hi, I'm **Abhishek Kumar**, a passionate Computer Science & Engineering student and aspiring Full Stack Developer with a strong interest in building modern, responsive, and user-friendly web and mobile applications. I enjoy turning ideas into real-world projects while continuously learning new technologies and improving my development skills.
 
-1. Fork the repository.
+### 💼 Areas of Interest
 
-2. Create a feature branch.
+- 🌐 Frontend Development
+- ⚛️ React.js Development
+- 📱 React Native Development
+- 🚀 MERN Stack Development
+- 🎨 UI/UX Design
+- 💻 Web Application Development
 
-```bash
-git checkout -b feature-name
-```
+### 🌐 Connect with Me
 
-3. Commit your changes.
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push your branch.
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request.
-
----
-
-# 👨‍💻 Author
-
-## Abhishek Kumar
-
-B.Tech Computer Science & Engineering
-
-Frontend Developer | MERN Stack Developer | React Native Developer
-
-### Connect with Me
-
-- GitHub: https://github.com/abhishekkjaiml
-- LinkedIn: https://www.linkedin.com/in/abhishek-kumar-jaiswar-35632b2b7/
-
+- **GitHub:** https://github.com/abhishekkjaiml
+- **LinkedIn:** https://www.linkedin.com/in/abhishek-kumar-jaiswar-35632b2b7/
 ---
 
 # ⭐ Show Your Support
