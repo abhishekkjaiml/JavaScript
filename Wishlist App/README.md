@@ -6,7 +6,7 @@ A modern and responsive **Wishlist Application** built using **HTML, CSS, and Ja
 
 ## 🌐 Live Demo
 
-🔗 Add your deployment link here.
+🔗 https://java-script-neon-gamma.vercel.app/
 
 ---
 
@@ -108,8 +108,9 @@ assets/
 └── screenshots/
     ├── home-dark.png
     ├── home-light.png
-    ├── empty-state.png
-    └── wishlist.png
+    ├── wishlist.png
+    ├── completed-wishlist.png
+    └── deleted-wishlist.png
 ```
 
 Example
